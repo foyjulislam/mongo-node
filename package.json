@@ -1,5 +1,5 @@
 {
-  "name": "doctors-portal-api",
+  "name": "doctor-portal-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Foyjul islam",
+  "author": "Foyjul",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
